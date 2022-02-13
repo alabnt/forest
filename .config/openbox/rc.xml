@@ -265,7 +265,7 @@
     </keybind>
     <keybind key="A-p">
       <action name="Execute">
-        <command>~/.scripts/other/scrot.sh</command>
+        <command>~/.scripts/other/maim.sh</command>
       </action>
     </keybind>
     <keybind key="A-Return">
